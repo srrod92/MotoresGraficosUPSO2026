@@ -1,3 +1,5 @@
 # MotoresGraficosUPSO2026
 
 Este el Readme del proyecto de Motores graficos.
+
+Esta es una modificacion con un stash pendiente.

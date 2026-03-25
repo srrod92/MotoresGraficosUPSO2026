@@ -14,3 +14,5 @@ Esto l oestoy esditando desde GitHub.Com
 
 
 Se crea proyecto de godot. Se usara 4.4.1
+
+Tambien se utilizara el adom phantom Camera.
